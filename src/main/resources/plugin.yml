@@ -1,0 +1,13 @@
+name: OST
+version: 1.0.0
+main: me.titan.ost.core.OSTPlugin
+author: TitanDev
+api-version: 1.18
+depend: []
+commands:
+  balance:
+    aliases: [bal]
+  givebal:
+  setbalance:
+    aliases: [setbal]
+  earn:
